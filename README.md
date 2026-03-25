@@ -1,20 +1,19 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Study School Website
 
-# Run and deploy your AI Studio app
+This is a school website built using React and TypeScript.
 
-This contains everything you need to run your app locally.
+## Tech Stack
+- React (TypeScript)
+- Vite
+- Firebase Hosting
 
-View your app in AI Studio: https://ai.studio/apps/drive/1LeIjGFjK9D-Z65dNY6Ghy1yHjBuqhxyF
+## Features
+- Responsive Design
+- Modern UI
+- Fast Performance
 
-## Run Locally
+## About
+This project was developed with the help of AI tools and customized further manually.
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Live Demo
+https://the-study-school.web.app/
